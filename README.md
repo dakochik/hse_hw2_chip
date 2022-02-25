@@ -2,17 +2,18 @@
 ## Часть 1
 Ответы на вопросы из ноутбука представлены в ноутбуке.  
 ### 1. FastQC отчеты
-Необходимости в фильтрации и подрезаниях не было.   
+Подрезание чтений понадобилось только для ENCFF815VLD
 **ENCFF644SSR:**  
 ![image](https://user-images.githubusercontent.com/55440084/155748402-ee20c407-8ef4-4004-a9c7-e0e8fbea6242.png)
 ![image](https://user-images.githubusercontent.com/55440084/155748433-278d2b07-ef58-45a3-8579-b82f35e3cb4b.png)
 ![image](https://user-images.githubusercontent.com/55440084/155748459-2c0a6d42-533c-499e-82a7-69bbeceb6391.png)
 
-**ENCFF815VLD:**  
-![image](https://user-images.githubusercontent.com/55440084/155748112-cce7ea76-d38d-4da5-ab1e-85869e76fb3c.png)
-![image](https://user-images.githubusercontent.com/55440084/155748168-aad8b0f9-53d9-4647-a895-adc8627f6691.png)
-![image](https://user-images.githubusercontent.com/55440084/155748187-1ff971ac-80b7-46ce-9ca8-ca44a0829950.png)
-![image](https://user-images.githubusercontent.com/55440084/155748218-54432e19-a2e1-4e4c-b04e-26bf87926f43.png)
+**ENCFF815VLD (trimmed):**  
+![image](https://user-images.githubusercontent.com/55440084/155761166-973a21b3-e741-470e-85b3-cb6e92c37929.png)
+![image](https://user-images.githubusercontent.com/55440084/155761184-0e249c1e-250a-431d-901c-00cc5b4497d9.png)
+![image](https://user-images.githubusercontent.com/55440084/155761215-380dfa2d-6c3d-444b-9b2d-f66b76d568b4.png)
+![image](https://user-images.githubusercontent.com/55440084/155761434-fe7ea13d-6b3e-4e12-b206-2e29482f0aab.png)
+
 **ENCFF775RGK (контроль):**  
 ![image](https://user-images.githubusercontent.com/55440084/155748485-91f57b63-cb8d-4dff-919f-52538206cb4a.png)
 ![image](https://user-images.githubusercontent.com/55440084/155748510-007ad34f-ec5d-4b22-8ce6-a4030ea7bfce.png)
