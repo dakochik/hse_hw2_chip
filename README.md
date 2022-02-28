@@ -29,7 +29,9 @@
 |Not aligned             |32103362   |56550947   |8994887               |
 
 ### 3. Диаграмма Венна
-![image](https://user-images.githubusercontent.com/55440084/155719296-1a4767b2-35be-4c36-a249-157a3101df07.png)
-![image](https://user-images.githubusercontent.com/55440084/155719329-a42d0e3a-d0d3-4d31-99ec-356396f98ab9.png)
+![image](https://user-images.githubusercontent.com/55440084/156043299-612ceceb-1324-4343-9e27-054fbec510d7.png)
+![image](https://user-images.githubusercontent.com/55440084/156043250-94b2d08d-b3a6-44fd-8cf6-79db57d4c62c.png)
+![image](https://user-images.githubusercontent.com/55440084/156043349-b397d50f-9570-4d1f-86f5-8e46a1aaa925.png)
+![image](https://user-images.githubusercontent.com/55440084/156043378-ca249347-7ab3-4f82-839e-561f96e67a63.png)
 
 ## Часть 2
