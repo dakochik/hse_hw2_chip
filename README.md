@@ -1,6 +1,7 @@
 # 2 ПГ, ДЗ 2
 ## Часть 1
 Ответы на вопросы из ноутбука представлены в ноутбуке.  
+Ссылка: https://colab.research.google.com/drive/1fXDFCG-8-gmxVozPuR8a0tPr5ajbSQnn?usp=sharing
 ### 1. FastQC отчеты
 Подрезание чтений понадобилось только для ENCFF815VLD
 **ENCFF644SSR:**  
